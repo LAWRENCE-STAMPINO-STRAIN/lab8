@@ -1,3 +1,7 @@
 Hello, this file was created by Lenny Raybukh on 1 November, 2024.
 Thank you, and have a nice day.
+<<<<<<< HEAD
 This line was added by Lawrence Stampino-Strain on 11/1/2024 at 3:14pm.
+=======
+This line was added by Lawrence Stampino-Strain on 11/1/2024 at 2:55pm.
+>>>>>>> b75126498a012d5c14faa79cc6e44bc91c5c1dc2
